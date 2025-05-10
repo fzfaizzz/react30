@@ -35,9 +35,9 @@ function App() {
           <Route path="/" element={<Project />} />
           <Route path="/one" element={<One />} />
           <Route path="/two" element={<Two />} />
-          <Route path="/four" element={<Four />} />
+          {/* <Route path="/four" element={<Four />} /> */}
           <Route path="/five" element={<Five />} />
-          <Route path="/six" element={<Six />} />
+          {/* <Route path="/six" element={<Six />} /> */}
           <Route path="/seven" element={<Seven />} />
           <Route path="/eight" element={<Eight />} />
           <Route path="/nine" element={<Nine />} />
